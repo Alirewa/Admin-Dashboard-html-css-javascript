@@ -2,14 +2,14 @@
 
 :root {
  --light: #f6f6f9;
- --primary: #0353ff;
+ --primary: #006cc5;
  --light-primary: #cfe8ff;
  --gray: #eee;
  --dark-gray: #aaaaaa;
  --dark: #363949;
  --danger: #d32f2f;
  --light-danger: #fecdd3;
- --warning: #fbc02d;
+ --warning: #ea8c00;
  --light-warning: #fff2c6;
  --success: #388e3c;
  --light-success: #bbf7d0;
